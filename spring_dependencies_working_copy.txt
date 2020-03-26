@@ -1,0 +1,93 @@
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:compile
+[INFO] |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:compile
+[INFO] +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:compile
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  +- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  +- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:provided
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:provided
+[INFO] |  |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:compile
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:compile
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:compile
+[INFO] +- org.springframework.boot:spring-boot-devtools:jar:2.2.0.RELEASE:compile (optional) 
+[INFO] |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.0.RELEASE:compile
+[INFO] |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:compile
+[INFO] +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:compile
+[INFO] +- org.springframework.boot:spring-boot-devtools:jar:2.2.0.RELEASE:compile (optional) 
+[INFO] +- org.springframework.security:spring-security-test:jar:5.2.0.RELEASE:compile
+[INFO] |  |  \- org.springframework.security:spring-security-web:jar:5.2.0.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:2.2.0.RELEASE:compile
+[INFO] |  |  +- org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE:compile
+[INFO] |  +- org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:compile
+[INFO] |  \- org.springframework.security:spring-security-test:jar:5.2.0.RELEASE:compile

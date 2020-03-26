@@ -27,7 +27,7 @@ import java.util.Map;
 @ConditionalOnProperty(prefix = "webgoat.start", name = "hsqldb", havingValue = "true")
 public class HSQLDBDatabaseConfig {
 
-    @Value("${hsqldb.port:9001}")
+    @Value("${hsqldb.port:9005}")
     private int hsqldbPort;
     private Server server;
 

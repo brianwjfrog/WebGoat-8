@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-DATABASE_PORT=9001
+DATABASE_PORT=9005
 
 checkDatabaseAvailable(){
 

@@ -1,0 +1,320 @@
+            <package id="Artifact_7a4d5e4f4f60664ba7ba297dc32aecc347c6fd052017290ff209e539ad0afcc0">
+                <key>spring-boot-starter-undertow-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>bc0765ae4bac67ec9b049ea3078e2c7d</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-undertow\2.2.0.RELEASE\spring-boot-starter-undertow-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-undertow/2.2.0.RELEASE/spring-boot-starter-undertow-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_44f40e11a236ceb2432da09debf410627a873556489cd826c99ba37ff2717abc">
+                <key>spring-boot-starter-web-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>f083985da9a2015322e9cf9dd469c4f1</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-web\2.2.0.RELEASE\spring-boot-starter-web-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.2.0.RELEASE/spring-boot-starter-web-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_b3857728709a6ff167a7b1ac6b3f0366963448c6806f601ed2b68d8f0cdd033e">
+                <key>spring-boot-starter-json-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>b3f0c957998f71699ddac804620e01c9</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-json\2.2.0.RELEASE\spring-boot-starter-json-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.2.0.RELEASE/spring-boot-starter-json-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_aaed28934367e1972377c446b7fef5369c82aff07f3760516138fb0ee6ce5555">
+                <key>spring-boot-starter-validation-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>dd570d8908e27d314a96c5471ca0db17</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-validation\2.2.0.RELEASE\spring-boot-starter-validation-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-validation/2.2.0.RELEASE/spring-boot-starter-validation-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_cfd9b4c6f3df376e8d191154a5325ab8c4f2c2e58434b6519c9efd7dca238d6b">
+                <key>spring-web-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>dbcac1402a95387282a48a94f6d13cb6</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-web\5.2.0.RELEASE\spring-web-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_2faf0dd5bd068b3a3bd1e11ff9025608aace6967000d7a0e0e2e2f9e4ca3e402">
+                <key>spring-webmvc-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>307f0bbc2b154936a7a5c83b994acb1d</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-webmvc\5.2.0.RELEASE\spring-webmvc-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_82a919a046edd6639351792e38dcc7f249cbf6b577805fb2fec4fef68c37cb9a">
+                <key>spring-boot-starter-actuator-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>d823856b96907b064c9ed5121b34d2cc</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-actuator\2.2.0.RELEASE\spring-boot-starter-actuator-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-actuator/2.2.0.RELEASE/spring-boot-starter-actuator-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_9edf35e1737393a5e176ca272fc636322c81fc595314e8eba568aefabcb2d7e9">
+                <key>spring-boot-actuator-autoconfigure-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>4ea27522308c0a1a1f331cb6cbb3106f</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-actuator-autoconfigure\2.2.0.RELEASE\spring-boot-actuator-autoconfigure-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.0.RELEASE/spring-boot-actuator-autoconfigure-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_137aa7d0cad4e171c775cae23546c8ef7fee203eea866ee58e93f819fbf423cc">
+                <key>spring-boot-actuator-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>70cab2a5f8a4ac33a2468bcbe79eab73</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-actuator\2.2.0.RELEASE\spring-boot-actuator-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-actuator/2.2.0.RELEASE/spring-boot-actuator-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_e1d6b4a6e2fc30ecdb04f1039f80663a018def1263f8e076f16f28325f5e2b4c">
+                <key>spring-boot-starter-data-jpa-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>bc2785b604fa1c7e840a68dc1a79d866</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-data-jpa\2.2.0.RELEASE\spring-boot-starter-data-jpa-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/2.2.0.RELEASE/spring-boot-starter-data-jpa-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_5aeaa1c71095903fa0173a1ecb13275ba21737c09e751e2744c36048ccc85889">
+                <key>spring-boot-starter-aop-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>ef3f930b04493f296875388c7755e7b6</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-aop\2.2.0.RELEASE\spring-boot-starter-aop-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-aop/2.2.0.RELEASE/spring-boot-starter-aop-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_10243768b1e13be2729d3bd1d066a1387abf4bf362d1c06798a4d1825f138c34">
+                <key>spring-boot-starter-jdbc-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>fc693f000fbaa62c2c476b6bf4ac68c5</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-jdbc\2.2.0.RELEASE\spring-boot-starter-jdbc-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/2.2.0.RELEASE/spring-boot-starter-jdbc-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_411657cd29e12a95829316516b5c314c6cadc2c6cb2315e4a405296ceedf8fe8">
+                <key>spring-jdbc-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>22724c3e2e94380e426743c66803f652</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-jdbc\5.2.0.RELEASE\spring-jdbc-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-jdbc/5.2.0.RELEASE/spring-jdbc-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_d165532e91d49a416068fae4179e24d5537f99f06911e8c8c37885f7754dcc04">
+                <key>spring-data-jpa-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>8fb6dd4426f44d7008d17b9746371c06</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\data\spring-data-jpa\2.2.0.RELEASE\spring-data-jpa-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/data/spring-data-jpa/2.2.0.RELEASE/spring-data-jpa-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_1c7073bfb680e1ad17f555dbaddbc4b8ed9e3e6b86ac671dfcd87394c5335636">
+                <key>spring-data-commons-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>a6c5ffbe2451aafd3d8914449a93088a</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\data\spring-data-commons\2.2.0.RELEASE\spring-data-commons-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/data/spring-data-commons/2.2.0.RELEASE/spring-data-commons-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_be882b508098f1c8192bcdf85ee4d16d2a80878d34b29463f64c237fe5ae2400">
+                <key>spring-orm-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>27c21104ef6390d5536528a25bfb4e94</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-orm\5.2.0.RELEASE\spring-orm-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-orm/5.2.0.RELEASE/spring-orm-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_4ffc4eaab0018e9ac36a49afd6458c8ea00f2d0e20c6be5da12d158bd3132745">
+                <key>spring-tx-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>9d9b094651542e698a45d63c9d38de5e</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-tx\5.2.0.RELEASE\spring-tx-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_f242992e7e1b411a36b5d54c236fe033d82ae406cb825963174cb99079bc88fa">
+                <key>spring-aspects-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>bc03a2d5efc30ccb24be30feb6abd98e</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-aspects\5.2.0.RELEASE\spring-aspects-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-aspects/5.2.0.RELEASE/spring-aspects-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_f422c2b6b22882b362f99f4e1325b2fc6d4af9710c062374ebe9fe2dbf86ba50">
+                <key>spring-boot-starter-security-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>9db5ade2db19bd6beca3996579111dc8</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-security\2.2.0.RELEASE\spring-boot-starter-security-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-security/2.2.0.RELEASE/spring-boot-starter-security-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_2945cfc5406d9e8adb10b2278acb93187cb2ac6cf2671897a702e0c0d283b617">
+                <key>spring-aop-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>78708e72730795c356d88cc26a77b2cc</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-aop\5.2.0.RELEASE\spring-aop-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_220006b29608bff6fb4cbaa613cf6b4228173382b88b8ff4011252d42c01aee6">
+                <key>spring-security-config-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>91e8e427a8b6aafe7ddcbe19dd2e2f1a</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\security\spring-security-config\5.2.0.RELEASE\spring-security-config-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/security/spring-security-config/5.2.0.RELEASE/spring-security-config-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_ed5e53e6000394ca6dfb44c3b60ab96cbe852d5d5a98051ac60228f2629267e5">
+                <key>spring-boot-starter-thymeleaf-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>9fff34700f2a68ab4a240d4bf87eb004</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-thymeleaf\2.2.0.RELEASE\spring-boot-starter-thymeleaf-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-thymeleaf/2.2.0.RELEASE/spring-boot-starter-thymeleaf-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_e41c0e553f551914f459e826f41552925d19b8721c633ee976843c08a2820fc7">
+                <key>spring-boot-starter-test-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>71bc373c15863448fd99f2366532b3ec</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-test\2.2.0.RELEASE\spring-boot-starter-test-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-test/2.2.0.RELEASE/spring-boot-starter-test-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_842ec3419ee2b5e8352593c2951654795a691f1d758ce7ded2e301a929b77f6b">
+                <key>spring-boot-starter-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>952e6fce92896b63a82d8fdc2978e9cc</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter\2.2.0.RELEASE\spring-boot-starter-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter/2.2.0.RELEASE/spring-boot-starter-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_05fe996347c1731d2bda5d2a92e55f2bf398499bc3a2e0af810f1d34aa30f9e9">
+                <key>spring-boot-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>eb1e87dc2b15fdf8366e7b70a004e223</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot\2.2.0.RELEASE\spring-boot-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot/2.2.0.RELEASE/spring-boot-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_e90c8453b1b93a453e82bc14a75a9718d6f9c10e3a5cb22d44b1fb1582cf86e2">
+                <key>spring-boot-autoconfigure-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>3937cfdffae9fdeafc7f4a75b061dec8</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.2.0.RELEASE\spring-boot-autoconfigure-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.0.RELEASE/spring-boot-autoconfigure-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_693c47af7587a63bb5b12196cbcd93a2e93d74a723ede394fba92755cf455d7c">
+                <key>spring-boot-starter-logging-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>c7707a56dd32d81fa96193ca926feae5</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-starter-logging\2.2.0.RELEASE\spring-boot-starter-logging-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.2.0.RELEASE/spring-boot-starter-logging-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_785857056a6e333a7ccc23cff4d2a3821688105509a058da67122d1a2124ffae">
+                <key>spring-boot-test-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>b6fb86b41643dd139859b93241502ff8</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-test\2.2.0.RELEASE\spring-boot-test-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-test/2.2.0.RELEASE/spring-boot-test-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_d33dea570872039b042e32ec32d8b890e8d74df2e4e151cd4a7f0e127d634582">
+                <key>spring-boot-test-autoconfigure-2.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>b69311460cc267861c6fef652f0ec51b</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\boot\spring-boot-test-autoconfigure\2.2.0.RELEASE\spring-boot-test-autoconfigure-2.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.RELEASE/spring-boot-test-autoconfigure-2.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_b3c6eaff1c481cf169f17e2c6458849e0453e630b8251fda13089fe93146bf4c">
+                <key>spring-core-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>dc145c05f7bc929e73235d20abe8ce64</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-core\5.2.0.RELEASE\spring-core-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_1ec268d27eeb8ff62854c288deafc7003c26e3aa3833841d9c76a70c46d65e9d">
+                <key>spring-jcl-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>6cd7ddf4738d9fcbe523ff4ffbd40679</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-jcl\5.2.0.RELEASE\spring-jcl-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-jcl/5.2.0.RELEASE/spring-jcl-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_aad914bc88485ee0766840bcda415a5307926714fc7f327f8dd1ff1dae2f5c94">
+                <key>spring-test-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>8f20dcd80ae64e0a056619c8cca21f59</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-test\5.2.0.RELEASE\spring-test-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-test/5.2.0.RELEASE/spring-test-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_105941847907b1c62f3710e5bd00181903ad1ab0b3e339de75428d5fbfdc0c5a">
+                <key>spring-security-test-4.1.3.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>1cd566db95b567a6c67b9c41ac41756b</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\security\spring-security-test\4.1.3.RELEASE\spring-security-test-4.1.3.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/security/spring-security-test/4.1.3.RELEASE/spring-security-test-4.1.3.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_0dac4835d1a6daf9b6007b146cce59fbc7c85568f452c916c4186b496d892852">
+                <key>spring-security-core-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>27f7c938a1000ca98ce4431c83090f39</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\security\spring-security-core\5.2.0.RELEASE\spring-security-core-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/security/spring-security-core/5.2.0.RELEASE/spring-security-core-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_5ee4d3ecf19ba4506e1955626a3b081ece195a9e1ac40432dd9bbbbe39a3f844">
+                <key>spring-beans-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>e9b40323fc12cffcf52baa6354e4b746</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-beans\5.2.0.RELEASE\spring-beans-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_44a29af088324c5f460c93832149ef4ae6ec69a633840a0f387cd70c4ddc3132">
+                <key>spring-context-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>1d9a1c37aed63cdac4e356c7095bde56</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-context\5.2.0.RELEASE\spring-context-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_cce4095b2bf2bc671a0b50bcf99d6be81d9aed5705be2ee6a54ff705c222d5bc">
+                <key>spring-expression-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>e8d32adcda7e62a97cd969455d5723bf</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\spring-expression\5.2.0.RELEASE\spring-expression-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/spring-expression/5.2.0.RELEASE/spring-expression-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_818e8493b0841c55091610dd873daa82d181fb4ebb56958837e31ffb0d0e8503">
+                <key>spring-security-web-5.2.0.RELEASE.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>8e3ebb8586e5b49402867f7e347d8115</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\org\springframework\security\spring-security-web\5.2.0.RELEASE\spring-security-web-5.2.0.RELEASE.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/org/springframework/security/spring-security-web/5.2.0.RELEASE/spring-security-web-5.2.0.RELEASE.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_418b3db119195cdbaefbb1eeced9059a2fd01ab6c23b621e8366f476fd787a25">
+                <key>jakarta.annotation-api-1.3.5.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>8b165cf58df5f8c2a222f637c0a07c97</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar</moduleName>
+                <type>Library</type>
+            </package>
+            <package id="Artifact_0da3db342acb4104a62089f04a8c648984dd8fca8351bf2a2963e9e59505c341">
+                <key>jakarta.persistence-api-2.2.3.jar</key>
+                <logicalType>JAVA_ARCHIVE</logicalType>
+                <hash>e0a655f398f8e68e0afebb0f71fba4e5</hash>
+                <originatingPath>C:\Users\senoa\.m2\repository\jakarta\persistence\jakarta.persistence-api\2.2.3\jakarta.persistence-api-2.2.3.jar</originatingPath>
+                <moduleName>C:/Users/senoa/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar</moduleName>
+                <type>Library</type>
+            </package>

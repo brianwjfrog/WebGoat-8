@@ -6,3 +6,5 @@ target/
 dependency-reduced-pom.xml
 src/main/webapp/users/guest.org.owasp.webgoat.lessons.BackDoors.props
 /src/main/webapp/WEB-INF/lib/*.jar
+/.apt_generated/
+/.apt_generated_tests/

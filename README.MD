@@ -114,3 +114,26 @@ docker push webgoat/webgoat-8.0
 # Run Instructions:
 
 Once installed connect to http://localhost:8080/WebGoat and http://localhost:9090/WebWolf
+
+# Running In Eclipse IDE (JuliaSoft Instructions):
+
+* Clone WebGoat8 git repository
+* Import into Eclipse each project as Maven Project
+* Check that Workspace Default JRE is JDK 11
+* Check that Compiler Compliance Level is 11
+* From **Eclipse > Preferences > Maven** refer an external installation of Maven 3.2.1 or greater
+* Install Lombok
+  - Download Lombok jar from <https://repo1.maven.org/maven2/org/projectlombok/lombok/1.18.4/lombok-1.18.4.jar>
+  - Launch Lombok installer running the following command, which opens a simple GUI
+  <br/>**java -jar lombok-1.18.4.jar**
+  - If the installer can not locate your Eclipse IDE installation, use the button “Specify location…” to refer the proper installation and press “Install / Update”
+  - Restart your IDE and check that the installation has been successful; click on **Help > About Eclipse IDE**, scroll down until the end of the text area anche check that Lombok has been installed (you should see the message “Lombok v1.18.4 "Envious Ferret" is installed. https://projectlombok.org/”)
+* For each project with errors:
+  - Under **Project > Properties > Java Compiler > Annotation Processing** enable checkbox “Enable annotation processing” (first enable “Enable project specific settings”)
+  - Under **Project > Properties > Java Compiler > Annotation Processing > Factory Path** click on “Enable project specific settings” and add an entry that referes the lombok jar previously downloaded
+* Build project running launch configuration named **WebGoat-build**
+* If during the build process **webgoat-integration-tests fails**, manually create the following directory
+<br/>**webgoat-integration-tests/src/main/java**
+<br/>and relaunch **WebGoat-build**
+* To run WebGoat 8 launch configuration named **WebGoat-run**
+* Register a new user and log in
